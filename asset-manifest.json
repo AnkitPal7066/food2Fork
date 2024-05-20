@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food2Fork/static/css/main.27b70c64.css",
+    "main.js": "/food2Fork/static/js/main.2effb756.js",
+    "index.html": "/food2Fork/index.html",
+    "main.27b70c64.css.map": "/food2Fork/static/css/main.27b70c64.css.map",
+    "main.2effb756.js.map": "/food2Fork/static/js/main.2effb756.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27b70c64.css",
+    "static/js/main.2effb756.js"
+  ]
+}
